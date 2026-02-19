@@ -132,6 +132,9 @@ echo "<!DOCTYPE html>
 
 	</body>
 
+	<html> <body>  test test test test test test teaste </body> </head>
+
 </html>";
 
 ?>
+
